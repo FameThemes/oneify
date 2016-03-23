@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Oneify
+ Theme URI:    https://www.famethemes.com/themes/onepress
+ Description:  Business website, made simple with Oneify.
+ Author:       FameThemes
+ Author URI:   https://www.famethemes.com
+ Template:     onepress
+ Version:      1.0.0
+ Tags:         one-column, two-columns, left-sidebar, right-sidebar, fluid-layout, responsive-layout, custom-menu, featured-images, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, yellow, light
+ Text Domain:  oneify
+*/
+
+/* Site Name */
+.site-branding .site-title, .site-branding .site-text-logo {
+    letter-spacing: 4px;
+}
+
+/* Header */
+.header-after-hero .site-header {
+    box-shadow: 0 5px 10px 0 rgba(50, 50, 50, 0.06);
+}
+.onepress-menu a {
+    font-size: 11px;
+    color: #999999;
+    letter-spacing: 0.5px
+}
+
+/* Hero content */
+.hero-content-style1 .morphext {
+    background: yellow;
+    padding: 0px 20px;
+    color: #000000;
+    text-shadow: none;
+    border-radius: 3px;
+}
